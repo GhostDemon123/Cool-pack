@@ -1,2 +1,2 @@
-# Cool-pack
+# Cool-packs
 Hey everyone ;)
